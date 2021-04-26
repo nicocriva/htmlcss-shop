@@ -104,6 +104,20 @@
     font-weight: bold;
     color: #d73b48;
     margin-top: 10px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.prezzo-scontato{
+    color: grey;
+    display: inline-block;
+    text-decoration: line-through;
+}
+
+.terzo-articolo-bottom{
+    padding: 15px;
+    line-height: 25px;
+    background-color: #75ac51;
 }
 
 /* debug */
