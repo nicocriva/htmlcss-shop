@@ -59,6 +59,28 @@
     padding: 5px;
 }
 
+/* descrizione articolo */
+.azienda{
+    margin-top: 7px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.azienda::after{
+    content: '\00AE';
+    font-size: 10px;
+    vertical-align: top;
+}
+
+.descrizione-articolo{
+    text-transform: uppercase;
+}
+
+.prezzo-originale{
+    font-weight: bold;
+    color: #d73b48;
+    margin-top: 10px;
+}
+
 /* debug */
 
 .container{
