@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+
+/* debug */
+
+.container{
+    background-color: lightcoral;
+    height: 1100px;
+}
